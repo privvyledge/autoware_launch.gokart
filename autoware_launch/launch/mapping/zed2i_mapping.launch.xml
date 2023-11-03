@@ -1,0 +1,12 @@
+<!--
+Todo:
+    * Add arguments for mapping
+    * Add argument for GPS
+    * Add argument for IMU
+    * Create config and modify other parameters
+    * Add option to assemble PointClouds (http://wiki.ros.org/rtabmap_util#rtabmap_util.2Fpoint_cloud_aggregator)
+-->
+
+<launch>
+
+</launch>

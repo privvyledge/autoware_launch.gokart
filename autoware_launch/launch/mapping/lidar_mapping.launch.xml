@@ -1,0 +1,20 @@
+<!--
+This package can be used for any topic that publishes PointCloud2 messages.
+Could optionally concatenate PointClouds but that might be beyond the scope of this.
+
+Can work with LIVOX and other pointclouds. Upstream nodes/components should concatenate multiple PointClouds
+to get 360 degree PointCloud data.
+Can also work with LaserScans
+
+Requirements:
+* PointCloud2XYZRTL, PointCloud2XYZI, etc.
+* IMU (optional)
+* GPS (optional)
+* Odometry (optional)
+
+Todo:
+    * Add arguments for mapping
+    * Add argument for GPS
+    * Add argument for IMU
+    * Create config and modify other parameters
+ -->

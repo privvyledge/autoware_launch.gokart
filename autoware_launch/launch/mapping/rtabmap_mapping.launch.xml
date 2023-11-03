@@ -1,0 +1,4 @@
+<!--
+To assemble/concatenate point_clouds (http://wiki.ros.org/rtabmap_util#rtabmap_util.2Fpoint_cloud_aggregator)
+To assemble stereo/RGBD images (http://wiki.ros.org/rtabmap_sync#rtabmap_sync.2Frgbdx_sync)
+-->
